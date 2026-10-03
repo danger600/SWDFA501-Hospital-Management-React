@@ -1,0 +1,1 @@
+export default function PatientBilling(){return <div className="card"><h3>Patient Billing Information</h3><p>Consultation: <b>25,000 RWF</b></p><p>Medication: <b>18,000 RWF</b></p><p>Other services: <b>7,000 RWF</b></p><hr/><h3>Total: 50,000 RWF</h3></div>}

@@ -1,0 +1,1 @@
+export default function Footer(){return <footer><div><strong>St. Luke Hospital</strong><p>Musanze District, Northern Province — Rwanda.</p></div><small>© 2026 St. Luke Hospital Management System.</small></footer>}

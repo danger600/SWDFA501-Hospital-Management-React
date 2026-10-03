@@ -1,0 +1,1 @@
+export default function Appointments(){return <section><p className="eyebrow">SCHEDULE</p><h2>Appointments</h2><div className="list"><div className="card"><b>09:00</b> — Jean Claude — General Consultation</div><div className="card"><b>11:30</b> — Aline Mukamana — Follow-up</div><div className="card"><b>14:00</b> — Grace Uwase — Routine Check-up</div></div></section>}

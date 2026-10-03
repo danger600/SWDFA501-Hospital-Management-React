@@ -1,0 +1,1 @@
+export default function History(){return <div className="card"><h3>Medical History</h3><ul><li>Initial consultation completed.</li><li>Vital signs recorded.</li><li>Medication plan reviewed by clinical staff.</li></ul></div>}
